@@ -1,1 +1,1 @@
-# Mini_Project-TrustNet
+# Mini_project_6thsem

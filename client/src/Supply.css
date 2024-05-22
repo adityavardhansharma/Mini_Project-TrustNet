@@ -1,0 +1,34 @@
+.supply-container {
+    padding: 20px;
+}
+
+.account-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.wait {
+    text-align: center;
+    font-size: 24px;
+    color: #555;
+}
+
+.form-control-sm {
+    margin-right: 10px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
