@@ -62,6 +62,6 @@ Run The Project
 
 - [Akhilesh Sharma](https://github.com/akhilex)
 
-- [Nirbhay Sharma](https://github.com/adityavardhansharma)
+- [Nirbhay Sharma](https://github.com/ItzNirbhay)
 
 
